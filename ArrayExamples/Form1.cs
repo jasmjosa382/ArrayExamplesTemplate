@@ -33,7 +33,7 @@ namespace ArrayExamples
             }
 
             /// 2. Sum all the values in the given array and 
-            /// display result
+            /// display result 
             /// 
             /// Sample Output:
             /// The sum is 20
